@@ -16,6 +16,7 @@ import { UploadProductImageComponent } from './product/upload-product-image/uplo
       ReactiveFormsModule,     
       SharedModule
     ],
+    
     exports: [],
     declarations: [routedComponents],
     providers: [],
